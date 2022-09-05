@@ -12,24 +12,11 @@ Your project should:
 - Define and call a function called wraparound() that stores a conditional statement to adjust the position of any wraparound characters.
 - Share the shiftedMessage with the user.
 
-### Extensions
-You can extend your project further by:
-- Add another usability feature.
-- Add a while loop to repeat the program.
-- Explore other ciphers. 
-
-###  Attributions
-*If you used any code, ideas, or resources from another person or group of people, tell us about it here. Make sure it is in the public domain, has a license that allows you to use it, or is one of your own.
-- This code is inspired by Cracking Codes with Python: An Introduction to Building and Breaking Ciphers by Al Sweigart https://www.nostarch.com/crackingcodes (BSD Licensed)
-- Add here if applicable
-
----
-
 ## File Overview
 
 ### ← README.md
 
-README.md file give you more documentation and information about a program. They are super helpful for describing what a program should do, any issues you've encountered, changes you want to make, and more. 
+README.md file provides an introduction on the program and an overview of what the program is capable of doing. 
 
 ### ← main.py
-This is where you will write your main program.
+The code used for the Cipher Usability program.
